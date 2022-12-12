@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @FourtySeven047
-- 🌱 I’m currently learning to code!
-- 📫 How to reach me: thorbenbunger@gmail.com
