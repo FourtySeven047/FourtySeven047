@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3> [LinkedIn]([https://minevalley.eu/)](https://www.linkedin.com/in/thorben-b%C3%BCnger-58b31a1b5/)
 <p align="left">
 </p>
 
